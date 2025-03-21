@@ -19,18 +19,6 @@
       width="36"
       height="36"
       alt="TypeScript" /></a
-  ><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg"
-      width="36"
-      height="36"
-      alt="GNU Bash" /></a
-  ><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg"
-      width="36"
-      height="36"
-      alt="VS Code" /></a
   ><a
     href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
     target="_blank"
@@ -76,30 +64,12 @@
       width="36"
       height="36"
       alt="Webpack" /></a
-  ><a href="https://babeljs.io/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://www.svgrepo.com/show/373742/light-babel.svg"
-      width="36"
-      height="36"
-      alt="Babel" /></a
   ><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
       width="36"
       height="36"
       alt="NodeJS" /></a
-  ><a href="https://render.com/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg"
-      width="36"
-      height="36"
-      alt="Render" /></a
-  ><a href="https://www.figma.com/" target="_blank" rel="noreferrer"
-    ><img
-      src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
-      width="36"
-      height="36"
-      alt="Figma" /></a
   ><a href="https://www.linux.org" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg"
